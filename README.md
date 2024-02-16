@@ -1,8 +1,7 @@
-### Welcome,
+## Welcome 🪐
 
 I'm a developer providing freelance services; learning new skills, making new and useful projects while I search for a work opportunity that's right for me. 
 I *love* working on developments as a team & want to contribute more in collaborative projects.
-
 
 <!--
 **gabriellemalate/gabriellemalate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
