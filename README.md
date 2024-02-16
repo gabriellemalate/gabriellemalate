@@ -15,9 +15,9 @@ Artist & developer providing freelance services; learning new skills, and making
 - Integrating Bootstrap & Tailwind in my projects
 
 ### Projects of interest ~ 
-- ❣️ Create & Collaborate on: self development or social impact projects that could include personality testing or some sort of resource for neurodivergence & people managing their mental health, especially mood disorders.
-- 🙋 Meet enterprising/entrepeneurial colleagues with a soft spot for the animation, comedy, improv, poetry, music, filmmaking --the arts!
-- **A place that encourages synergy and innovation from young developers like me to dive into and learn from or even simply observe and help as needed.**
+- 🔬 Self development or social impact projects that could include personality testing or some sort of resource for neurodivergence & people managing their mental health, especially mood disorders.
+- 🐸 Meet enterprising/entrepeneurial colleagues with a soft spot for the animation, comedy, improv, poetry, music, filmmaking --the arts!
+- 🤝 **A place that encourages synergy and innovation from young developers like me to dive into and learn from or even simply observe and help as needed.**
 
 > [!NOTE]
 > 🛰️ HelloMoodMemory@gmail.com 
