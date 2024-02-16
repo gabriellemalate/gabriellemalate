@@ -5,7 +5,7 @@ Artist & developer providing freelance services; learning new skills, and making
 **gabriellemalate/gabriellemalate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Working on ~
-- An adaptable mood tracking app, MoodMemory, to be ready for deployment & user testing
+- An adaptable mood tracking app to be deployment & user-testing ready 
 - Websites for local buisnesses 
 - Mock youtube site
   
