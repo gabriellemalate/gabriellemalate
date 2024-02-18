@@ -26,4 +26,4 @@ Open to a consistent work opportunity that I can grow with long term.
 > LinkedIn https://www.linkedin.com/in/gabriellemalate/  
 > Discord - gabrielle_malate
 
-🌟 Don't be a stranger! Hop into a convo! Tell me how I can help you, about your story. Ask me about the businesses I've built, what to consider in paving our own paths. Let's discuss what we think the future could look like.
+🌟 Don't be a stranger! Hop into a conversation -- Tell me how I can help you, about your story. Ask me about the businesses I've built, what to consider in paving our own paths. Let's discuss what we think the future could look like.
