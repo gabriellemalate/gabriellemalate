@@ -2,7 +2,7 @@
 
 Artist & Engineer  
 Providing freelance services, adopting new skills, and making useful projects.  
-Open to a consistent work opportunity that I can grow with long term. 
+Open to a consistent employment opportunity that I can grow with long term. 
 <!--
 **gabriellemalate/gabriellemalate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
