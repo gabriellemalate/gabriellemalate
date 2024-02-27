@@ -12,9 +12,8 @@ Open to a consistent employment opportunity that I can advance with long term.
 - Mock youtube site
   
 ### Current Studies ~
-- Python in freecodecamp
-- Sharpening Typescript skill
-- Integrating Bootstrap & Tailwind in projects
+- Diving deeper on JavaScript & polishing up for efficient code
+- Typescript online course
 
 ### Projects of interest ~ 
 - ⚗️ Self development or social impact projects that could include personality testing or some sort of resource for neurodivergence & people managing their mental health, especially mood disorders.
