@@ -9,7 +9,7 @@ Open to a consistent employment opportunity that I can advance with long term.
 ### Working on ~
 - An adaptable mood tracking app to be deployment & user-testing ready 
 - Websites for local buisnesses 
-- Mock youtube site
+- Youtube -esque mock site
   
 ### Current Studies ~
 - Diving deeper on JavaScript & polishing up for efficient code
@@ -25,4 +25,4 @@ Open to a consistent employment opportunity that I can advance with long term.
 > LinkedIn https://www.linkedin.com/in/gabriellemalate/  
 > Discord - gabrielle_malate
 
-🌟 Don't be a stranger! Hop into a conversation -- Tell me how I can help you, about your story. Ask me about the businesses I've built, what to consider in paving our own paths. Let's discuss what we think the future could look like.
+🌟 Don't be a stranger! Hop into a conversation -- Tell me how I can help, about your story. Ask me about the businesses I've built, what to consider in paving our own paths. Let's discuss what we think the future could look like.
