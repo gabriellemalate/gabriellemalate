@@ -10,8 +10,8 @@ Open to a consistent employment opportunity that I can advance with long term.
 - Youtube -esque mock site
   
 ### Current Studies ~
-- Diving deeper on JavaScript & polishing up for efficient code
 - Typescript online course
+- Harvard CS50 self pace for Python
 
 ### Projects of interest ~ 
 - ⚗️ Self development or social impact projects that include personality testing or a sort of resource for neurodivergence & people managing mood disorders.
