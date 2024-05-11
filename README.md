@@ -16,7 +16,7 @@ Open to a consistent employment opportunity that I can advance with long term.
 ### Projects of interest ~ 
 - ⚗️ Self development or social impact projects that include personality testing or a sort of resource for neurodivergence & people managing mood disorders.
 - 🐸 Meet enterprising/entrepeneurial colleagues with a soft spot for animation, comedy, improv, poetry, music, filmmaking --the arts.
-- 🤝 **Organizations that encourage synergy and innovation for developers to learn as they provide dynamic contributions in real time.**
+- 🤝 Organizations that encourage synergy and innovation for developers to learn as they provide dynamic contributions in real time.
 
 > [!NOTE]
 > Email gabriellemalate@gmail.com  
